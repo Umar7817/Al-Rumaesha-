@@ -21,7 +21,7 @@ function Footer() {
           </address>
         </section>
         <p>
-          &copy; {new Date().getFullYear()} Al-Rumaesha. All rights reserved.
+          &copy; {new Date().getFullYear()} Al-Rumaesa. All rights reserved.
         </p>
       </footer>
     </div>

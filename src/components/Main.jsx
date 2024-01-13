@@ -10,20 +10,20 @@ function Main() {
 
         </div>
         <div className='title'>
-            <h1 className='header-h1'>Al-Rumaesha</h1>
+            <h1 className='header-h1'>Al-Rumaesa</h1>
             <h1>Hajj Tours</h1>
             <h1 className='header-h1 header-h12'>Hajj & Umarah</h1>
         </div>
         <div className="landing-page">
       <header>
-        <h1>Welcome to Al-Rumaesha</h1>
+        <h1>Welcome to Al-Rumaesa</h1>
         <p>Your Trusted Partner for an Unforgettable Hajj & Umarah Experience</p>
       </header>
 
       <section className="about-us">
         <h2>About Us</h2>
         <p>
-          Al-Rumaesha is dedicated to providing a seamless and spiritually enriching Hajj & Umarah experience.
+          Al-Rumaesa is dedicated to providing a seamless and spiritually enriching Hajj & Umarah experience.
           With years of expertise, we ensure that your pilgrimage is filled with comfort, guidance, and memorable moments.
         </p>
       </section>
@@ -31,7 +31,7 @@ function Main() {
       
 
       <section className="why-choose-us">
-        <h2>Why Choose Al-Rumaesha?</h2>
+        <h2>Why Choose Al-Rumaesa?</h2>
         <ul>
           <li>Experienced and Knowledgeable Guides</li>
           <li>Luxurious Accommodations</li>
